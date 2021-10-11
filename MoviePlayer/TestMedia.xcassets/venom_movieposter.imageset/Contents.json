@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "movieposter.jpg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

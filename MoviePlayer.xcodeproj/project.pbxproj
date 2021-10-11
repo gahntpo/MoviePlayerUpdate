@@ -12,6 +12,8 @@
 		17889A6C2714170700468F3F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 17889A6B2714170700468F3F /* Assets.xcassets */; };
 		17889A6F2714170700468F3F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 17889A6D2714170700468F3F /* LaunchScreen.storyboard */; };
 		17889A78271417DF00468F3F /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 17889A77271417DF00468F3F /* ContentView.swift */; };
+		17889A7A2714191D00468F3F /* Youtube.plist in Resources */ = {isa = PBXBuildFile; fileRef = 17889A792714191D00468F3F /* Youtube.plist */; };
+		17889A7C2714194700468F3F /* TestMedia.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 17889A7B2714194700468F3F /* TestMedia.xcassets */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +24,8 @@
 		17889A6E2714170700468F3F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		17889A702714170700468F3F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		17889A77271417DF00468F3F /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		17889A792714191D00468F3F /* Youtube.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Youtube.plist; sourceTree = "<group>"; };
+		17889A7B2714194700468F3F /* TestMedia.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = TestMedia.xcassets; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,7 +62,9 @@
 				17889A642714170600468F3F /* SceneDelegate.swift */,
 				17889A76271417CF00468F3F /* Main */,
 				17889A6B2714170700468F3F /* Assets.xcassets */,
+				17889A7B2714194700468F3F /* TestMedia.xcassets */,
 				17889A6D2714170700468F3F /* LaunchScreen.storyboard */,
+				17889A792714191D00468F3F /* Youtube.plist */,
 				17889A702714170700468F3F /* Info.plist */,
 			);
 			path = MoviePlayer;
@@ -130,7 +136,9 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				17889A7A2714191D00468F3F /* Youtube.plist in Resources */,
 				17889A6F2714170700468F3F /* LaunchScreen.storyboard in Resources */,
+				17889A7C2714194700468F3F /* TestMedia.xcassets in Resources */,
 				17889A6C2714170700468F3F /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
